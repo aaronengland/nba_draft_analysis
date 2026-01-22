@@ -10,3 +10,4 @@ NBA draft and career data were scraped from Basketball-Reference.com for drafts 
 ![Mean by Pick](04_analysis/output/plt_mean_by_pick.png)
 
 #### Discussion
+NBA career outcomes decline steadily with draft position across all metrics examined. Earlier picks are associated with longer careers, greater on-court production, and a much higher likelihood of elite outcomes, while later picks show sharply reduced averages and increased uncertainty. Taken together, these results help explain why teams often prioritize proven players over future draft capital—particularly outside the top of the draft—where expected returns drop quickly and become increasingly volatile.
