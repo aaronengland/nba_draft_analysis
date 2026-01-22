@@ -1,5 +1,7 @@
 # NBA Draft Analysis
 
+![Top Picks](img/top_picks.png)
+
 #### Purpose
 This analysis examined how NBA career outcomes vary by draft position by summarizing historical performance and longevity metrics across overall draft picks.
 
